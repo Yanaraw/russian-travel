@@ -5,3 +5,10 @@
     height: 52px;
     background-image: url(../../../images/logo.png);
 }
+
+@media screen and (max-width: 540px){
+    .header__logo {
+        width: 142px;
+        height: 42px;
+    }
+}

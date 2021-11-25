@@ -1,0 +1,11 @@
+.lead__img {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+    align-self: center;
+    border: purple solid;
+    margin: 0;
+    padding: 0;
+    flex-wrap: wrap; 
+}
