@@ -1,7 +1,6 @@
 .main {
     display: grid;
     row-gap: 92px;
-    border: hotpink solid;
     grid-template-columns: 1fr;
 }
 
