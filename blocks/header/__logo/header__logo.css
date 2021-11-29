@@ -3,7 +3,7 @@
     background-size: cover;
     width: 176px;
     height: 52px;
-    background-image: url(../../../images/logo.png);
+    background-image: url(../../../images/logo.svg);
 }
 
 @media screen and (max-width: 540px){
